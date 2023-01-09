@@ -7,7 +7,7 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
-    margin: 0px
+    margin: 10px;
 }
 hr {
     margin: 2rem 0rem;
@@ -137,5 +137,5 @@ hr {
 
 /** blogs **/
 .showcase-blog {
-    padding-bottom: 6rem;
+   padding-top: 6rem;
 }
